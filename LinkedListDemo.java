@@ -2,7 +2,7 @@ package example_1;
 	import java.util.*;
 	public class LinkedListDemo {
 
-	   public static void main(String args[]) {
+	   public static void main(String [] args) {
 	      // create a linked list
 	      LinkedList<String> ll = new LinkedList();
 	      
